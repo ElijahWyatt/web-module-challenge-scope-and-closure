@@ -58,7 +58,8 @@ You will be running your tests in one terminal and debugging in the other. As yo
 
 Edit the `ReadMe` file with your answers to the questions below.
 
-1. In your own words, define closure (1-2 sentences).
+1. In your own words, define closure (1-2 sentences). 
+  Closure is when a function within a function reaches out to the outer function to access variables outside the function.
 2. Study the following code, then answer the questions below.
 
 ```js
